@@ -1,0 +1,12 @@
+#*
+*#
+
+
+*.aux
+*.log
+*.out
+*.toc
+note/*/*.pdf
+
+
+*.mod
